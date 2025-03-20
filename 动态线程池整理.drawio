@@ -1,0 +1,313 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.2081 SLBChan/10 SLBVPV/64-bit" version="26.1.1">
+  <diagram name="第 1 页" id="JRYn938LkEZfvZY-TwAn">
+    <mxGraphModel dx="2183" dy="1175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#333333" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];dashed=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="878" width="1096" height="747" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];dashed=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="1351.73" y="1143" width="299.77" height="381" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];dashed=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1068" y="1178" width="197" height="223" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="1799" y="1330" width="256.81" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-1" value="&lt;font color=&quot;#ffffff&quot;&gt;配置类&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="1422.5" y="923" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-2" value="声明需要注入的 Bean 对象" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.6,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1452.04" y="957" width="100.92" height="15.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-3" value="&lt;font color=&quot;#ffffff&quot;&gt;配置属性注入类&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="1141" y="922" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-4" value="用于读取需要从配置文件读取的属性&lt;div&gt;如 RedissonClient 相关配置&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.6,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1155.77" y="957" width="130.46" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F0F3F4;curved=0;endArrow=classicThin;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LblG2mmYKH_bLMNfAs_v-3" target="LblG2mmYKH_bLMNfAs_v-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1708" y="949" as="sourcePoint" />
+            <mxPoint x="1503" y="841" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-6" value="属性注入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#333333, #ededed);fontColor=#F0F3F4;" vertex="1" connectable="0" parent="LblG2mmYKH_bLMNfAs_v-5">
+          <mxGeometry x="-0.2969" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-7" value="&lt;font color=&quot;#ffffff&quot;&gt;注册中心接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="1088" y="1198" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-8" value="用于定义注册中心的实现规范" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.6,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1113.52" y="1233" width="108.96" height="15.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-9" value="&lt;font color=&quot;#ffffff&quot;&gt;注册中心 Redis 版本&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="1088" y="1335" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-10" value="用于上报线程池配置信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.6,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1120.77" y="1370" width="94.46" height="15.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="1374" y="1301" width="251.5" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-12" value="&lt;font color=&quot;#ffffff&quot;&gt;动态线程池领域服务接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="1419.75" y="1168" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-13" value="用于定义动态线程池领域服务的实现规范" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.6,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1426.01" y="1203" width="147.48" height="15.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-14" value="用于提供动态线程池领域服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.6,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1426.26" y="1495" width="147.48" height="15.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-15" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;动态线程池领域服务实现&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1374" y="1283" width="140.5" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-16" value="&lt;font color=&quot;#ffffff&quot;&gt;查询动态线程池配置列表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="1393.5" y="1323" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-17" value="&lt;font color=&quot;#ffffff&quot;&gt;根据线程池名称查询动态线程池配置&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="1393.5" y="1380" width="209" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-18" value="&lt;font color=&quot;#ffffff&quot;&gt;线程池配置信息上报任务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="1815.81" y="1350" width="211" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-20" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;动态线程池触发器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1799" y="1312" width="99.81" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-21" value="&lt;font color=&quot;#ffffff&quot;&gt;用于修改线程池配置的发布订阅监听器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="1815.81" y="1409.5" width="223" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-23" value="&lt;font color=&quot;#ffffff&quot;&gt;根据线程池名称修改动态线程池配置&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="1393.5" y="1437" width="209" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F0F3F4;curved=0;endArrow=classicThin;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LblG2mmYKH_bLMNfAs_v-9" target="LblG2mmYKH_bLMNfAs_v-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1261" y="1155.5" as="sourcePoint" />
+            <mxPoint x="1383" y="1156.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-25" value="实现" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#333333, #ededed);fontColor=#F0F3F4;" vertex="1" connectable="0" parent="LblG2mmYKH_bLMNfAs_v-24">
+          <mxGeometry x="-0.2969" relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F0F3F4;curved=0;endArrow=classicThin;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LblG2mmYKH_bLMNfAs_v-11" target="LblG2mmYKH_bLMNfAs_v-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1164.5" y="1426.5" as="sourcePoint" />
+            <mxPoint x="1164.5" y="1340.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-28" value="实现" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#333333, #ededed);fontColor=#F0F3F4;" vertex="1" connectable="0" parent="LblG2mmYKH_bLMNfAs_v-27">
+          <mxGeometry x="-0.2969" relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;curved=0;endArrow=classicThin;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;" edge="1" parent="1" source="LblG2mmYKH_bLMNfAs_v-18" target="LblG2mmYKH_bLMNfAs_v-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2074.74" y="1308.13" as="sourcePoint" />
+            <mxPoint x="2201.74" y="844.1300000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1719" y="1368" />
+              <mxPoint x="1719" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;curved=0;endArrow=classicThin;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;" edge="1" parent="1" source="LblG2mmYKH_bLMNfAs_v-18" target="LblG2mmYKH_bLMNfAs_v-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1845.5" y="1289.5" as="sourcePoint" />
+            <mxPoint x="1583.5" y="1253.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1719" y="1368" />
+              <mxPoint x="1719" y="1398" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-33" value="调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#333333, #ededed);fontColor=#F0F3F4;" vertex="1" connectable="0" parent="LblG2mmYKH_bLMNfAs_v-32">
+          <mxGeometry x="-0.2969" relative="1" as="geometry">
+            <mxPoint x="35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;curved=0;endArrow=classicThin;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;" edge="1" parent="1" source="LblG2mmYKH_bLMNfAs_v-21" target="LblG2mmYKH_bLMNfAs_v-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1833.5" y="1435.48" as="sourcePoint" />
+            <mxPoint x="1620.5" y="1465.48" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1719" y="1427" />
+              <mxPoint x="1719" y="1454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-35" value="调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#333333, #ededed);fontColor=#F0F3F4;" vertex="1" connectable="0" parent="LblG2mmYKH_bLMNfAs_v-34">
+          <mxGeometry x="-0.2969" relative="1" as="geometry">
+            <mxPoint x="35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-37" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;注册中心&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1068" y="1160" width="67" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-39" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;领域服务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1351.73" y="1125" width="67" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;curved=0;endArrow=classicThin;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;" edge="1" parent="1" source="LblG2mmYKH_bLMNfAs_v-36" target="LblG2mmYKH_bLMNfAs_v-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1835.5" y="1024" as="sourcePoint" />
+            <mxPoint x="1622.5" y="1052" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;curved=0;endArrow=classicThin;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;" edge="1" parent="1" source="LblG2mmYKH_bLMNfAs_v-19" target="LblG2mmYKH_bLMNfAs_v-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1907.32" y="1172.5" as="sourcePoint" />
+            <mxPoint x="1898.32" y="1003.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1927" y="1076" />
+              <mxPoint x="1503" y="1076" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;curved=0;endArrow=classicThin;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;" edge="1" parent="1" source="LblG2mmYKH_bLMNfAs_v-38" target="LblG2mmYKH_bLMNfAs_v-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1879.5" y="1343.5" as="sourcePoint" />
+            <mxPoint x="1455.5" y="986.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-48" value="声明为 Bean" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#333333, #ededed);fontColor=#F0F3F4;" vertex="1" connectable="0" parent="LblG2mmYKH_bLMNfAs_v-47">
+          <mxGeometry x="-0.2969" relative="1" as="geometry">
+            <mxPoint x="1" y="-68" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-50" value="&lt;font color=&quot;#ffffff&quot;&gt;dynamic-thread-pool-spring-boot-starter&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="860" width="218" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="1126" width="512" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-52" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;引用动态线程池组件的模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="1108" width="154" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="2312" y="1169" width="133" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-53" value="线程池 1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2333" y="1190" width="89" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-58" value="线程池 2" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2333" y="1246" width="89" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-59" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;声明的线程池 Bean 对象&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2312" y="1151" width="142" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;curved=0;endArrow=classicThin;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;" edge="1" parent="1" source="LblG2mmYKH_bLMNfAs_v-55" target="LblG2mmYKH_bLMNfAs_v-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1879.3899999999999" y="1153.5" as="sourcePoint" />
+            <mxPoint x="1880.3899999999999" y="982.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2145" y="1237" />
+              <mxPoint x="2145" y="941" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-62" value="以 Map 的方式注入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#333333, #ededed);fontColor=#F0F3F4;" vertex="1" connectable="0" parent="LblG2mmYKH_bLMNfAs_v-61">
+          <mxGeometry x="-0.2969" relative="1" as="geometry">
+            <mxPoint x="71" y="194" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="2511" y="1169" width="248" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-63" value="&lt;font color=&quot;#ffffff&quot;&gt;查询动态线程池配置列表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="2530.5" y="1192" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-64" value="&lt;font color=&quot;#ffffff&quot;&gt;根据线程池名称查询动态线程池配置&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="2530.5" y="1249" width="209" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-65" value="&lt;font color=&quot;#ffffff&quot;&gt;根据线程池名称修改动态线程池配置&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=light-dark(#333333, #ededed);strokeColor=light-dark(#f0f3f4, #ededed);gradientColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="2530.5" y="1306" width="209" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-67" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;线程池配置管理 Controller&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2511" y="1151" width="142" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-70" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;curved=0;endArrow=classicThin;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;" edge="1" parent="1" source="LblG2mmYKH_bLMNfAs_v-63" target="LblG2mmYKH_bLMNfAs_v-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1906.5" y="1752.04" as="sourcePoint" />
+            <mxPoint x="1693.5" y="1780.04" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2943" y="1209" />
+              <mxPoint x="2943" y="1703" />
+              <mxPoint x="1166" y="1703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-71" value="从配置中心通过键值对查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#333333, #ededed);fontColor=#F0F3F4;" vertex="1" connectable="0" parent="LblG2mmYKH_bLMNfAs_v-70">
+          <mxGeometry x="-0.2969" relative="1" as="geometry">
+            <mxPoint x="170" y="-495" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;curved=0;endArrow=classicThin;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;" edge="1" parent="1" source="LblG2mmYKH_bLMNfAs_v-64" target="LblG2mmYKH_bLMNfAs_v-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2667.53" y="1306.5" as="sourcePoint" />
+            <mxPoint x="1143.53" y="1497.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2943" y="1267" />
+              <mxPoint x="2943" y="1703" />
+              <mxPoint x="1166" y="1703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-73" value="从配置中心通过键值对查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#333333, #ededed);fontColor=#F0F3F4;" vertex="1" connectable="0" parent="LblG2mmYKH_bLMNfAs_v-72">
+          <mxGeometry x="-0.2969" relative="1" as="geometry">
+            <mxPoint x="239" y="-436" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-74" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9673a6;curved=0;endArrow=classicThin;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;" edge="1" parent="1" source="LblG2mmYKH_bLMNfAs_v-65" target="LblG2mmYKH_bLMNfAs_v-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2283.39" y="1591.5" as="sourcePoint" />
+            <mxPoint x="2284.39" y="1421.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2862" y="1323" />
+              <mxPoint x="2862" y="1667" />
+              <mxPoint x="1216" y="1667" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-75" value="向注册中心的发布订阅 Topic 发布配置变更消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#333333, #ededed);fontColor=#F0F3F4;" vertex="1" connectable="0" parent="LblG2mmYKH_bLMNfAs_v-74">
+          <mxGeometry x="-0.2969" relative="1" as="geometry">
+            <mxPoint x="221" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9673a6;curved=0;endArrow=classicThin;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#e1d5e7;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LblG2mmYKH_bLMNfAs_v-36" target="LblG2mmYKH_bLMNfAs_v-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2783.25" y="1281.52" as="sourcePoint" />
+            <mxPoint x="1259.25" y="1358.52" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1328" y="1289" />
+              <mxPoint x="1328" y="1564" />
+              <mxPoint x="1927" y="1564" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-79" value="&lt;font&gt;监听 Topic 中发布的消息&lt;/font&gt;&lt;div&gt;&lt;font&gt;变更指定线程池的配置&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1824.4" y="1487" width="206" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-81" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9673a6;curved=0;endArrow=classicThin;endFill=1;fillColor=#e1d5e7;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LblG2mmYKH_bLMNfAs_v-21" target="LblG2mmYKH_bLMNfAs_v-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1242" y="1444.25" as="sourcePoint" />
+            <mxPoint x="1904" y="1544.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2087" y="1427" />
+              <mxPoint x="2087" y="1594" />
+              <mxPoint x="1295" y="1594" />
+              <mxPoint x="1295" y="1345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LblG2mmYKH_bLMNfAs_v-80" value="完成变更后立即上报一次配置" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1829" y="1577" width="177" height="34" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
