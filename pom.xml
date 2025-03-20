@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>dynamic-thread-pool-spring-boot-starter</module>
+        <module>dynamic-thread-pool-test</module>
     </modules>
 
     <properties>
@@ -52,6 +53,12 @@
                 <artifactId>spring-boot-starter-test</artifactId>
                 <scope>test</scope>
                 <version>3.4.2</version>
+            </dependency>
+            <!-- Redis 的 Redisson 依赖 -->
+            <dependency>
+                <groupId>org.redisson</groupId>
+                <artifactId>redisson-spring-boot-starter</artifactId>
+                <version>3.26.0</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
